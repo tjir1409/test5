@@ -3,7 +3,7 @@ title: About Me
 feature_text: |
   ## Thanavit (Tent) Jirapanjawat
   "A research assistant, a lab manager and a radiation safety officer"
-feature_image: "prof_pic.jpg"
+feature_image: /assets/img/prof_pic.jpg
 excerpt: "I have been working as a research assistant at the [Greening lab](http://www.greeninglab.com/) since 2016."
 ---
 
