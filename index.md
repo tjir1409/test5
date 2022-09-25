@@ -11,6 +11,9 @@ I have been working as a research assistant at the [Greening lab](http://www.gre
 
 {% include button.html text="Monash BDI" link="https://www.monash.edu/discovery-institute" color="#0366d6" %} {% include button.html text="Greening lab" link="http://www.greeninglab.com/" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/TentThanavit" color="#0d94e7" %}
 
+![](/assets/img/prof_pic.jpg)
+
+
 ## Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
